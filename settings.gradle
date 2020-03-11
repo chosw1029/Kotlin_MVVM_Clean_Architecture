@@ -1,0 +1,4 @@
+rootProject.name='Kotlin_MVVM_Clean_Architecture'
+include ':presentation'
+include ':data'
+include ':domain'
